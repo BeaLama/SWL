@@ -2,7 +2,7 @@
 # WSL
 ## INTRODUCCIÓN
 
-    - [`Introducción`](WSL/WSL.md)
+-[`Introducción`](WSL/WSL.md)
     
 ## INSTALACIÓN
 
