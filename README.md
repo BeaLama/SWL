@@ -6,15 +6,16 @@
     
 ## INSTALACIÓN
 
-    - [`Instalación`](WSL/instalarWSL.md)
+-[`Instalación`](WSL/instalarWSL.md)
     
 ## PROCESOS
 
-    - [`Procesos`](WSL/procesos.md)
+-[`Procesos`](WSL/procesos.md)
     
 ## REFERENCIAS
 
-    - [`Referencias`](WSL/referencias.md)
+-[`Referencias`](WSL/referencias.md)
+
 
 
 ## Licencia
