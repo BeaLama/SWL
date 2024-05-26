@@ -6,7 +6,8 @@ Para instalar WSL debemos seguir los siguientes pasos:
 
 <ul>Para la instalación de Debian utilizamos el comando "wsl --install -d Debian"</ul>
 
-<!--imagen-->
+![image](https://github.com/BeaLama/SWL/assets/148747089/5810e69c-3a4b-4cbf-88fb-eaee5d092902)
+
 
 <ul>Para la instalación de Ubuntu usamos el comando "wsl --install -d Ubuntu"</ul>
 
