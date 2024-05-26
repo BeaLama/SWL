@@ -1,6 +1,6 @@
 # Enlaces de referencia
 * [Microsoft](https://learn.microsoft.com/es-es/windows/wsl/about)
-* [ChatGPT](https://learn.microsoft.com/es-es/windows/wsl/about](https://chatgpt.com/c/736b8a34-9b21-42ae-bc36-94554f790690) 
+* [ChatGPT](https://chatgpt.com/c/98a13112-d9e7-401e-a4f3-637b46bcf16d) 
 
 
 
