@@ -2,7 +2,7 @@
 # WSL
 ## INTRODUCCIÓN
 
-# ¿QUÉ ES WSL?
+### ¿QUÉ ES WSL?
 
 ![wsl](https://github.com/BeaLama/SWL/assets/148747089/e32cecc8-9bc3-4cdf-a674-b9c6cb2b9ce6)
 
