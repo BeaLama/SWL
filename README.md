@@ -1,2 +1,2 @@
-# SWL
+# WSL
 WSL.md
